@@ -1,0 +1,106 @@
+----------------------------------------------------------
+【技術をあらためてブラッシュアップしたい方へ】
+
+【Unity編】
+* Unity公式
+* マニュアル等も日本語化が進んで、情報が増えています。
+* http://japan.unity3d.com/
+
+* Unity３分チュートリアル
+* Unityの関係者がテーマごとに動画で使い方を紹介しています。
+* https://www.youtube.com/channel/UCGsYOAeV5N8dBVP3YiMnyYQ
+
+* キータ
+* Unityに関するWEB上の情報を集めているサイトです。
+* http://qiita.com/tags/Unity3D
+
+* テラシュールブログ
+* Unityの様々なテクニックや情報を集めたサイト。
+* http://tsubakit1.hateblo.jp//
+
+* Unityユーザー助け合い所
+* 色々と技術的な質問ができるフェイスブックのグループです。
+* https://www.facebook.com/groups/unityuserj/?ref=bookmarks
+
+【Cocos2d-x編】
+* 「Cocos2d-x Programmers Guide v3.3」
+* http://cocos2d-x.org/programmersguide/
+
+* 開発環境構築全般
+* http://tech.sanwasystem.com/entry/2015/02/02/104034
+* http://tech.sanwasystem.com/entry/2015/02/04/131311
+* http://unsolublesugar.com/20150122/153509/
+
+* 最初のほうは参考本のサンプルプロジェクトを見ながらやっていました。実際にゲームが動いているコードを見ながらやった方がイメージがつきやすいかもしれません。
+以下の2つの本のサンプルプロジェクトがとてもお世話になっています。(当社エンジニア談)
+
+* 「Cocos2d-xスマートフォン2Dゲーム開発講座 Cocos2d-x 3対応 」
+* http://www.amazon.co.jp/dp/4798136050/
+
+* 「cocos2d-xではじめるスマートフォンゲーム開発 [cocos2d-x Ver.3対応] for iOS/Android」
+* http://www.amazon.co.jp/dp/4774170550/
+
+## SACに関する資料
+SWF を変換して Cocos2d-x で表示できる Super Animation Converter | Sun Limited Mt.
+http://blog.syuhari.jp/archives/2428
+
+SuperAnimationConverterの使い方メモ - 黒白猫の開発日記
+http://d.hatena.ne.jp/DiegoTristan/20130708/1373261361
+
+【iOS編 -Swift-】
+iOSを得意とする方、この機会にiOSにチャレンジする方向けに、Swiftの参考文献をお送りします。特に1のSwiftTourは事前に目を通しておくことをおすすめします。
+
+1. A Swift Tour
+* https://developer.apple.com/library/mac/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html
+
+※ こちらは英語ですが目を通して予習しておくことをオススメします。
+
+2. 作って学ぶSwift/iOSアプリ入門
+* http://tech.camph.net/?p=363
+
+3. [Swift][超入門]初心者向けはじめてのHelloWorld!
+* http://qiita.com/maximum80/items/4116985b7276fdb45576
+
+4. [Swift][Xcode6][入門]初心者向け簡易カウンターの作成
+* http://qiita.com/maximum80/items/e0bfa83cd132f72732a2
+
+5. Xcode6/Swiftで、ボタンを押すとラベルが変わるだけのアプリを作る
+* http://qiita.com/Kta-M/items/087b3cc4bca1fbf6c77a
+
+6. [iOS 8/Xcode 6] SwiftではじめるiOS開発 #1 [Table View]
+* http://dev.classmethod.jp/references/ios-8-xcode-6-swift-listview/
+
+7. AppleのSwift言語を学ぶためのオンラインリソース
+* http://www.infoq.com/jp/news/2014/06/apple-swift-learning-resources
+
+8. 「Swift Docs」コードとＵＩが同時に載っているため、下のサイトも便利
+* https://sites.google.com/a/gclue.jp/swift-docs/
+
+9. もしSwift2.0を使用した開発を想定している場合、新しい構文を学ぶには下のサイトが参考になると思います
+* http://dev.classmethod.jp/smartphone/wwdc-2015-swift-2/
+
+10. swift サンプルサイト・サンプルコード集
+* http://qiita.com/deepriver/items/350968f5def31c753e6b
+
+【Android編】
+
+Androidを得意とする方、この機会にAndroidにチャレンジする方向けに、参考文献をお送りします。
+
+1. AndroidTraining
+* https://github.com/mixi-inc/AndroidTraining
+
+2. platform_development
+* https://github.com/android/platform_development/tree/master/samples
+
+3. android best practice
+* http://qiita.com/kgmyshin/items/a2358d54ffb3c5435d11
+
+4.Tech Institute アプリ開発者養成講座テキスト
+* http://techinstitute.jp/material/01/
+
+上記1や4を軽く見ながら、Activityを使ったり各UIパーツを表示して使ってみる＆パーツの操作（イベントや入力受け取る）をする。合わせて以下のサンプル触ってみると良いかもしれません。
+
+https://github.com/android/platform_development/tree/master/samples
+
+それができたらFragmentを使う（ActivityとFragment間のやりとりをするとか）。発展的な内容として、コーディング規約やActivity・Fragmentを適切に使い分ける、有名なライブラリを使ってみる、コーディング規約を意識してみるなど。
+----------------------------------------------------------
